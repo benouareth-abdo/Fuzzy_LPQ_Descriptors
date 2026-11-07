@@ -4,7 +4,7 @@ Reference implementation accompanying the paper:
 
 > **Fuzzy Local Phase Quantization with Fisher Vector Embedding for
 > Blur-Insensitive Texture Classification**
-> *(manuscript to be submitted to Expert Systems With Applications)*
+> *(manuscript to be submitted to Fuzzy Optimization and Decision Making)*
 
 This repository implements, end-to-end, the ideas of the paper:
 
